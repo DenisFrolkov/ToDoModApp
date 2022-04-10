@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ToDoModApp</string>
+    <string name="ellipse_1_1">ellepse1_1</string>
+    <string name="ellipse_1_2">ellepse1_2</string>
+    <string name="welcome_bac">Welcome Back!</string>
+    <string name="human">human</string>
+    <string name="enter_your_">Enter your email</string>
+    <string name="password">Confirm password</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_">Dont have an account?</string>
+    <string name="SignUp">Sign Up</string>
+
 </resources>
