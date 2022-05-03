@@ -13,7 +13,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:contentDescription="@string/ellipse_2"
-        app:srcCompat="@drawable/bg01" />
+        app:srcCompat="@drawable/ellipse_2" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -22,10 +22,9 @@
         android:layout_marginTop="228dp"
         app:layout_constraintEnd_toEndOf="parent"
         android:contentDescription="@string/people"
-        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/undraw_completed_tasks_vs6q_1" />
+        app:srcCompat="@drawable/people" />
 
     <TextView
         android:id="@+id/textView2"
