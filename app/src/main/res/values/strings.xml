@@ -9,5 +9,9 @@
     <string name="sign_in">Sign In</string>
     <string name="don_t_have">Dont have an account?</string>
     <string name="SignUp">Sign Up</string>
-
+    <string name="ellipse_2">ellepse_2</string>
+    <string name="people">people</string>
+    <string name="let_s_get_t">Lets get things done on time</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus praesent purus tincidunt ut cursus vitae. Nisl, vitae nulla lectus tortor, est a aliquam. Pretium netus</string>
+    <string name="get_started">Get Started</string>
 </resources>

@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ToDoModApp">
         <activity
+            android:name=".splash_screen"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
